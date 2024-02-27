@@ -2,9 +2,9 @@
 <p align="left">Welcome to my github profile :))</p>
 <p align="left">I'm backend developer, but I'm interested in WebGL and frontend also :)</p>
 
-- 🔭 I’m currently working on **Java Spring projects to improve my Java Spring skills also some OpenGL projects.**
+- 🔭 I’m currently working on **Java Spring projects to improve my Java Spring skills.**
 
-- 🌱 I’m currently learning **Java and Java Spring Ecosystem, OpenGL, JavaScript and React JS**
+- 🌱 I’m currently learning **Java and Java Spring Ecosystem, JavaScript and React JS**
 
 - 📫 How to reach me **burakyapici747@gmail.com**
 
