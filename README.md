@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Burak</h1>
 <p align="left">Welcome to my github profile :))</p>
-<p align="left">I'm backend developer, but I'm interested in WebGL and frontend also :)</p>
+<p align="left">I'm backend developer.</p>
 
 - 🔭 I’m currently working on **Java Spring projects to improve my Java Spring skills.**
 
